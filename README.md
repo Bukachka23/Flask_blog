@@ -15,21 +15,24 @@ Run the application with the command flask run.
 
 Usage
 
-Sign Up
-
+# Sign Up
 To create a new account, click the "Sign Up" link on the home page and fill out the registration form. You will then be redirected to the login page.
+![Example-4](4.png)
 
 # Login
 To log in, enter your email address and password on the login page and click the "Log In" button. If you have not yet created an account, you will need to do so first.
+![Example-3](3.png)
 
 # Searching
 To search for posts, enter a search query in the search bar and click the "Search" button. The search results will be displayed on a separate page.
+![Example-1](1.png)
 
 # Create Post
 To create a new post, click the "New Post" link on the navigation bar and fill out the form. Once you have submitted the form, your new post will be added to the database and displayed on the home page.
 
 # Edit Post
 To edit an existing post, click the "Edit" button next to the post you want to edit. You will be redirected to a form where you can make changes to the post. Once you have submitted the form, the changes will be saved to the database and the post will be updated.
+![Example-2](2.png)
 
 # Pagination
 To navigate between pages of posts, use the page links at the bottom of the home page. By default, each page displays up to 10 posts.
