@@ -4,12 +4,19 @@ This is a Flask web application that allows users to create an account, log in, 
 # Installation
 
 Clone the repository to your local machine.
+
 Install the required packages by running pip install -r requirements.txt.
+
 Create a virtual environment (optional).
+
 Set the FLASK_APP environment variable to blog.py.
+
 Run the application with the command flask run.
+
 Usage
+
 Sign Up
+
 To create a new account, click the "Sign Up" link on the home page and fill out the registration form. You will then be redirected to the login page.
 
 # Login
